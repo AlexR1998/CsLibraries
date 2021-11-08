@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SQLHandling\SQLHandling\bin\Debug\net5.0\SQLHandling.deps.json
+C:\Users\user\Desktop\SQLHandling\SQLHandling\bin\Debug\net5.0\SQLHandling.runtimeconfig.json
+C:\Users\user\Desktop\SQLHandling\SQLHandling\bin\Debug\net5.0\SQLHandling.runtimeconfig.dev.json
+C:\Users\user\Desktop\SQLHandling\SQLHandling\bin\Debug\net5.0\SQLHandling.dll
+C:\Users\user\Desktop\SQLHandling\SQLHandling\bin\Debug\net5.0\ref\SQLHandling.dll
+C:\Users\user\Desktop\SQLHandling\SQLHandling\bin\Debug\net5.0\SQLHandling.pdb
+C:\Users\user\Desktop\SQLHandling\SQLHandling\obj\Debug\net5.0\SQLHandling.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SQLHandling\SQLHandling\obj\Debug\net5.0\SQLHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SQLHandling\SQLHandling\obj\Debug\net5.0\SQLHandling.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SQLHandling\SQLHandling\obj\Debug\net5.0\SQLHandling.AssemblyInfo.cs
+C:\Users\user\Desktop\SQLHandling\SQLHandling\obj\Debug\net5.0\SQLHandling.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SQLHandling\SQLHandling\obj\Debug\net5.0\SQLHandling.dll
+C:\Users\user\Desktop\SQLHandling\SQLHandling\obj\Debug\net5.0\ref\SQLHandling.dll
+C:\Users\user\Desktop\SQLHandling\SQLHandling\obj\Debug\net5.0\SQLHandling.pdb
+C:\Users\user\Desktop\SQLHandling\SQLHandling\obj\Debug\net5.0\SQLHandling.genruntimeconfig.cache
